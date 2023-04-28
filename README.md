@@ -3,14 +3,14 @@ This repository contains my project that uses Pose detection TenforflowJs model 
 
 to run the page install yarn from npm by 
 
-npm install -g yarn
+    npm install -g yarn
 
 then cd to live_video folder in repo and run
 
-yarn watch
+    yarn watch
 
 this command after 5-10 minutes prompt the localhost server then in browser search
 
-127.0.0.1:XXXX?model=posenet
+    127.0.0.1:XXXX?model=posenet
 
 this will run the file
